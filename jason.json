@@ -1,0 +1,42 @@
+{
+  
+  "proyects" : [
+    {
+      "name" : "FREELANCER",
+      "contenido" : "Html Y Css",
+      "imagen" :"./img/FREELANCER.png",
+      "enlace": "https://github.com/angelmultiplataforma/FREELANCER.git"
+      
+    },
+    {
+      "name" : "SLIDER",
+      "contenido" : "JavaScript",
+      "imagen" : "./img/SLIDER.png",
+      "enlace": "https://github.com/angelmultiplataforma/EFECTOS-HTML-CSS.git"
+    },
+    {
+      "name" : "OUR COMUNITY",
+      "contenido" : "Html Y Css",
+      "imagen" : "./img/ACTIVIDAD REFUERZO CSS.png",
+      "enlace": "https://github.com/angelmultiplataforma/actividad-refuerzo.git"
+    },
+
+    {
+      "name" : "GET INSIGHTS",
+      "contenido" : "HTML Y Css",
+      "imagen" : "./img/ACTIVIDAD REFUERZO 2 CSS.png",
+      "enlace": "https://github.com/angelmultiplataforma/Actividad-refuerzo-2.git"
+    }
+
+ 
+  ]
+  
+}
+
+
+
+
+
+
+
+
